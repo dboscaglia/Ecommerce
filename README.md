@@ -8,9 +8,8 @@ Carrito de compras y validacion por usuario
 # Herramientas:
 > C#
 >  JavaScript
->  .Net
->  Asp
->  Razor
+>  ASP.NET Razor
+
 
 
 
