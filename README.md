@@ -5,6 +5,12 @@ Carrito de compras y validacion por usuario
 # Imagen:
 ![Imagen_1](https://github.com/dboscaglia/Ecommerce/blob/master/Ecommerce_Inicio.png)
 ![Imagen_2](https://github.com/dboscaglia/Ecommerce/blob/master/Mis_compras.png)
+# Herramientas:
+> C#
+>  JavaScript
+>  .Net
+>  Asp
+>  Razor
 
 
 
